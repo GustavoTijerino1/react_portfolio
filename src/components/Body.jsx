@@ -7,7 +7,7 @@ export default function Body() {
  
         </figure>
         <main>
-            <div id="me" class="gone"> <p id="hidden">Disclaimer: That's Not Me.</p> <img src="./assets/images/goat.jpg" alt="A picture of me"/> </div>
+            <div id="me" class="gone"> <p id="hidden">Disclaimer: That's Not Me.</p> <img src="./assets/images/goat.jpg" alt="A pic of me"/> </div>
     
                 <section id="aboutme" >
                     <h2> About me</h2>
