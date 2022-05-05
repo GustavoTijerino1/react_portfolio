@@ -29,6 +29,10 @@ This project lets you generate your own Team.
 
  MIT License
 
+## Credits 
+
+Craig
+
 ## Contact me
 How to reach me if you have any additional questions.
 
