@@ -8,7 +8,7 @@ export default function Header({text}) {
              <nav>
                 <ul>
                     <li> 
-                        <a href="https://docs.google.com/document/d/15xFbnUZfvePa9FoQTPy1I7SNRoIZH_Kj/view"target="_blank" rel="noreferrer">Resume</a>  
+                        <a href="https://docs.google.com/document/d/15xFbnUZfvePa9FoQTPy1I7SNRoIZH_Kj/view"target="_blank" rel="noreferrer" download>Resume</a>  
 
                     </li>
                     
