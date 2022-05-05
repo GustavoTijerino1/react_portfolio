@@ -1,5 +1,6 @@
 import React from 'react'
 
+import Header from './Header'
 
 export default function Body() {
     const nmn = require('./assets/img/nmn.png')

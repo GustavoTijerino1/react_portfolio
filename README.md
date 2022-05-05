@@ -23,7 +23,7 @@ This project lets you generate your own Team.
 
 
 ## Deployed Page
-[Nerds Meet Nerds Dating App](https://nerds-meet-nerds.herokuapp.com/)
+[All About Me](https://gustavotijerino1.github.io/react_portfolio/)
 
 ## License
 
