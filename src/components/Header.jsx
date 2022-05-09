@@ -18,12 +18,12 @@ export default function Header() {
                     </li>
                     
                     <li>
-                    <Link to="projects">Work</Link>
+                    <Link to="/projects">Work</Link>
                         
                     </li>
 
                     <li>
-                    <Link to="footer">Contact Me</Link>
+                    <Link to="/footer">Contact Me</Link>
                     </li>
                 </ul>
             </nav>

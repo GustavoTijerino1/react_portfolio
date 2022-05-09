@@ -1,11 +1,12 @@
 import React from 'react'
 import { BsGithub, BsLinkedin, BsFillEnvelopeFill, BsFillTelephonePlusFill } from "react-icons/bs";
 import { Link } from 'react-router-dom';
-
+import Header from './Header';
 
 export default function Footer() {
   return (
  <>
+    <div><Header/></div>
  <footer id="contact">
             
             <h3>

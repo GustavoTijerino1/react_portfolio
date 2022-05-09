@@ -46,7 +46,7 @@ const handleFormSubmit = (e) => {
     <>
      <div><Header></Header></div>
       <div className='top'>
-        <h1>Contact Me</h1>
+        <h1>Email Me!</h1>
         <p>If you have any questions, please feel free to shoot me an email!</p>
       </div>
 
