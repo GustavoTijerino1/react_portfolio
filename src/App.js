@@ -14,10 +14,10 @@ export default function App() {
           <Router basename="/react_portfolio">
       <Routes>
       <Route path="/" element={<Body/>} />
-      <Route path="projects" element={<Projects/>} />
-      <Route path="footer" element={<Footer />} />
+      <Route path="/projects" element={<Projects/>} />
+      <Route path="/footer" element={<Footer />} />
       <Route path="/contact" element={<Contact/>}/>
-    </Routes>
+      </Routes>
       </Router>
     </div>
 
