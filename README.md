@@ -1,7 +1,7 @@
 # react_portfolio
 
 ## Description
-This project lets you generate your own Team.
+This portfolio is purely done with React.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,11 +13,10 @@ This project lets you generate your own Team.
 
 ## Installation
 
- You need to React.
+ You need to install React.
 
 ## Usage
 
- You need to open the terminal for the 'index.js' then input 'node index.js'.
 
 ![How it works.](./src/components/assets/img/localhost_3000_.png)
 
