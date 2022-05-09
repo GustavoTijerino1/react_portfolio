@@ -1,12 +1,13 @@
 import React from 'react'
 
-// import Header from './Header'
+import Header from './Header'
 
 export default function Body() {
     const gustavo = require('./assets/img/me.jpg')
     
   return (
       <>
+      <div><Header></Header></div>
     <figure id="img">
  
         </figure>

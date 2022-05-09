@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Header from './Header'
 export default function Projects() {
 
     const nmn = require('./assets/img/nmn.png')
@@ -11,8 +11,11 @@ export default function Projects() {
 
   return (
     <>
+    <div><Header></Header></div>
 
 <section id="work">
+
+
             <h2>Projects</h2>
 
                 <figure  className="brd" >

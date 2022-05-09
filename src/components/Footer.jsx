@@ -1,6 +1,8 @@
 import React from 'react'
-import { IconContext } from "react-icons";
 import { BsGithub, BsLinkedin, BsFillEnvelopeFill, BsFillTelephonePlusFill } from "react-icons/bs";
+import { Link } from 'react-router-dom';
+
+
 export default function Footer() {
   return (
  <>
@@ -14,7 +16,7 @@ export default function Footer() {
             <nav>
                 <ul>
                     <li>
-                        <a href="mailto:marquee@gmail.com"target="_blank"rel="noreferrer"><BsFillEnvelopeFill/></a>
+                    <Link className="icon" to='/contact'><BsFillEnvelopeFill/></Link>
                     </li>
                     
                     <li>
@@ -37,7 +39,7 @@ export default function Footer() {
 
         </footer>
  
- 
+                    
  </>
   )
 }

@@ -1,29 +1,29 @@
+import { Link } from "react-router-dom";
 
-
-export default function Header({text}) {
+export default function Header() {
   return (
   <>
     <header>
-        <h1>{text}</h1>
+        <h1>Gustavo Tijerino</h1>
              <nav>
                 <ul>
                     <li> 
                         <a href="    https://docs.google.com/document/d/15xFbnUZfvePa9FoQTPy1I7SNRoIZH_Kj/export?format=pdf"target="_blank" rel="noreferrer" download>Resume</a>  
 
                     </li>
-                    {/* https://docs.google.com/document/d/15xFbnUZfvePa9FoQTPy1I7SNRoIZH_Kj/export?format=pdf */}
+                 
                     <li>
-                        <a href="#aboutme">Learn About Me</a>
+                    <Link to="/">Home</Link>
                         
                     </li>
                     
                     <li>
-                        <a href="#work">My Work</a>
+                    <Link to="projects">Work</Link>
                         
                     </li>
 
                     <li>
-                        <a href="#contact">Contact Me</a>
+                    <Link to="footer">Contact Me</Link>
                     </li>
                 </ul>
             </nav>
